@@ -1,0 +1,38 @@
+.create-Blog{
+    text-align: center;
+}
+h3{
+color:black;
+}
+input[type="text"] {
+    border: 2px solid #4f005f;
+    border-radius: 10px;
+    height: 30px;
+  }
+  input[type="radio"] {
+    margin-bottom: -1%;margin-left: 10px;
+    margin-right: 2px;
+    margin-bottom: 20px;
+  }
+  input[type="checkbox"] {
+    margin-left: 10px;
+    margin-right: 2px;
+    margin-top: 2%;
+    
+  }
+select {
+    border: 2px solid #4f005f;
+    border-radius: 10px;
+    height: 30px;
+  }
+  textarea{
+    border: 2px solid #4f005f;
+    border-radius: 10px;
+  }
+  .button1{
+    width: 100px;
+  }
+  .create-blog{
+    color: #4f005f;
+  }
+  
